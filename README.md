@@ -1,76 +1,51 @@
-<!--
-**aravpatel19/aravpatel19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+![Banner](BannerAravPatel.png)
 
-<div style="overflow: hidden; display: flex; align-items: center; justify-content: space-between;">
+# hey, I'm Arav 👋
 
-<div style="flex: 1; min-width: 300px;">
-  
-<h1>Hi there! I'm Arav 🤙</h1>
+AI x Crypto builder. Interested in the agent economy — what happens when AI agents need to transact, build reputation, and operate autonomously onchain.
 
-<div style="flex-shrink: 0; margin-left: 20px;">
-  <img src="arav-ski-ghibli.jpeg" width="280" style="border-radius: 12px;" />
-</div>
-
-<p>
-I'm an AI engineer in the making with <strong>3+ years of experience</strong> working with <strong>Python</strong>, <strong>TypeScript</strong>, cloud-native tools (<strong>AWS</strong>, <strong>Terraform</strong>, <strong>Kubernetes</strong>, etc.), and more! I specialize in building production-ready <strong>agentic AI systems</strong> and <strong>RAG pipelines</strong> that scale.
-</p>
-
-<p>
-Currently freelancing and contributing to cutting-edge GenAI products. Let’s connect and collaborate!
-</p>
-
-</div>
-</div>
-
+Previously FDE at [HappyRobot (YC W23)](https://happyrobot.ai), deploying AI agents for enterprise clients in production. Now building at the intersection of AI and blockchain.
 
 ---
 
-## 🧠 Skills Summary
+## what I'm building
 
-**Cloud & DevOps:**  
-AWS (EKS, EC2, S3, RDS, Lambda), Terraform, Kubernetes, Docker, Jenkins, GitHub Actions, CI/CD
-
-**AI Infrastructure & LLMs:**  
-RAG Pipelines, LangChain, Docling, Pinecone, Supabase, Vector DBs, Agentic Workflows, Prompt Engineering
-
-**Machine Learning:**  
-PyTorch, TensorFlow, Scikit-learn, HuggingFace, Reinforcement Learning (DQN), Random Forests
-
-**Backend Development:**  
-Node.js, FastAPI, Python, Java, PostgreSQL, MySQL, REST APIs, Bash
-
-**Frontend & Product:**  
-React, Next.js, TypeScript, HTML/CSS/JavaScript, UI/UX Design, Agile, Jira, Figma, Client Communication
-
-**Certifications:**  
-🧠 Hugging Face – Fundamentals of Agents (2025)
+- **AgentFICO** — decentralized credit scoring for AI agents on Filecoin. Agents need reputation too.
+- **KeyLog** — macOS keystroke capture tool that generates end-of-day summaries + X posts via Claude API
+- Exploring **ERC-8004** and **x402** standards for the AI agent economy
 
 ---
 
-## 🚀 Featured Projects
+## stack
+
+**AI & Agents:** LLMs, RAG, LangChain, MCPs, Tool Calls, Prompt Engineering, Agentic Infra, Vector DBs
+
+**Blockchain:** Solidity, Filecoin, Synapse SDK, ERC-8004, x402, DeFi primitives
+
+**Cloud & DevOps:** AWS (EKS, EC2, S3, Lambda, RDS), Terraform, Kubernetes, Docker, CI/CD
+
+**Backend:** Python, FastAPI, Node.js, Rust (learning), PostgreSQL, RESTful APIs, Webhooks
+
+**Frontend:** React, Next.js, TypeScript
+
+---
+
+## featured projects
 
 | Project | Description |
 |--------|-------------|
-| **[nodejs‑eks‑infrastructure](https://github.com/aravpatel19/nodejs-eks-infrastructure)** | AWS EKS deployment using Terraform & Kubernetes for Node.js apps with full automation and CI/CD. |
-| **[clinical‑fact‑checking‑system](https://github.com/aravpatel19/clinical-fact-checking-system)** | Multimodal RAG pipeline for verifying clinical claims via document/image parsing and semantic chunking. |
-| **[deepseek‑agentic‑rag](https://github.com/aravpatel19/deepseek-agentic-rag)** | Natural language interface for DeepSeek API Docs using GPT-4o-mini and Agentic RAG crawler. |
-| **[Multilingual‑Voice‑Translation](https://github.com/aravpatel19/Multilingual-Voice-Translation-Application)** | Voice translation app across 7+ languages with real-time synthesis and context-aware GPT-4o processing. |
-| **[Tetris‑DeepQLearning](https://github.com/aravpatel19/Tetris-DeepQLearning)** | Self-learning agent for Tetris using Deep Q-Learning (DQN), trained in PyTorch. |
+| **[fs-upload-dapp](https://github.com/aravpatel19/fs-upload-dapp)** | Open source contribution — fixed MetaMask wallet connection on a Filecoin SynapseSDK dApp |
+| **[acme-logistics-api](https://github.com/aravpatel19/acme-logistics-api)** | Inbound carrier sales API for freight brokers integrated with HappyRobot voice AI — 37% booking conversion, <200ms latency |
+| **[aravpatel.com](https://github.com/aravpatel19/aravpatel-portfolio)** | AI-powered interactive portfolio — ask it anything, it responds as me |
+| **[nodejs-eks-infrastructure](https://github.com/aravpatel19/nodejs-eks-infrastructure)** | Full AWS EKS stack with Terraform, zero-downtime Kubernetes deploys, GitHub Actions CI/CD |
+| **[clinical-fact-checking-system](https://github.com/aravpatel19/clinical-fact-checking-system)** | Multimodal RAG pipeline for pharmaceutical claim validation — 75%+ accuracy |
+| **[deepseek-agentic-rag](https://github.com/aravpatel19/deepseek-agentic-rag)** | Conversational Agentic RAG over DeepSeek API docs using GPT-4o-mini + crawl4ai |
 
 ---
 
-## 📫 Connect with Me
+## find me
 
 - 🌐 [aravpatel.com](https://aravpatel.com)
+- 🐦 [X @aravpatel_](https://twitter.com/aravpatel_)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aravpatel-/)
-- 🧠 [GitHub](https://github.com/aravpatel19)
-- 🐦 [X (Twitter)](https://twitter.com/aravspirit17)
 - ✉️ aravpatel2319@gmail.com
-
----
-
-## 💡 Fun Fact
-
-I love translating complex AI concepts into scalable infrastructure—and I believe the future of AI is *agentic, explainable, and open*.
-
