@@ -1,6 +1,6 @@
 ![Banner](BannerAravPatel.png)
 
-# hey, I'm Arav 👋
+# hey, I'm arav 🤙
 
 AI x Crypto builder. Interested in the agent economy — what happens when AI agents need to transact, build reputation, and operate autonomously onchain.
 
