@@ -4,6 +4,8 @@
 
 AI x Crypto builder. Interested in the agent economy — what happens when AI agents need to transact, build reputation, and operate autonomously onchain.
 
+Currently a Founding Engineer at [Item (YC F25)](https://www.item.app/), building the agentic-first CRM with deep context and autonomous execution. 
+
 Previously FDE at [HappyRobot (YC W23)](https://happyrobot.ai), deploying AI agents for enterprise clients in production. Now building at the intersection of AI and blockchain.
 
 ---
