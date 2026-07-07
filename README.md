@@ -12,8 +12,8 @@ Previously FDE at [HappyRobot (YC W23)](https://happyrobot.ai), deploying AI age
 
 ## what I'm building
 
-- **AgentFICO** — decentralized credit scoring for AI agents on Filecoin. Agents need reputation too.
-- **KeyLog** — macOS keystroke capture tool that generates end-of-day summaries + X posts via Claude API
+- **AgentFICO**: decentralized credit scoring for AI agents on Filecoin. Agents need reputation too.
+- **KeyLog**: macOS keystroke capture tool that generates end-of-day summaries + X posts via Claude API
 - Exploring **ERC-8004** and **x402** standards for the AI agent economy
 
 ---
@@ -36,11 +36,11 @@ Previously FDE at [HappyRobot (YC W23)](https://happyrobot.ai), deploying AI age
 
 | Project | Description |
 |--------|-------------|
-| **[fs-upload-dapp](https://github.com/aravpatel19/fs-upload-dapp)** | Open source contribution — fixed MetaMask wallet connection on a Filecoin SynapseSDK dApp |
-| **[acme-logistics-api](https://github.com/aravpatel19/acme-logistics-api)** | Inbound carrier sales API for freight brokers integrated with HappyRobot voice AI — 37% booking conversion, <200ms latency |
-| **[aravpatel.com](https://github.com/aravpatel19/aravpatel-portfolio)** | AI-powered interactive portfolio — ask it anything, it responds as me |
+| **[fs-upload-dapp](https://github.com/aravpatel19/fs-upload-dapp)** | Open source contribution: fixed MetaMask wallet connection on a Filecoin SynapseSDK dApp |
+| **[acme-logistics-api](https://github.com/aravpatel19/acme-logistics-api)** | Inbound carrier sales API for freight brokers integrated with HappyRobot voice AI: 37% booking conversion, <200ms latency |
+| **[aravpatel.com](https://github.com/aravpatel19/aravpatel-portfolio)** | AI-powered interactive portfolio: ask it anything, it responds as me |
 | **[nodejs-eks-infrastructure](https://github.com/aravpatel19/nodejs-eks-infrastructure)** | Full AWS EKS stack with Terraform, zero-downtime Kubernetes deploys, GitHub Actions CI/CD |
-| **[clinical-fact-checking-system](https://github.com/aravpatel19/clinical-fact-checking-system)** | Multimodal RAG pipeline for pharmaceutical claim validation — 75%+ accuracy |
+| **[clinical-fact-checking-system](https://github.com/aravpatel19/clinical-fact-checking-system)** | Multimodal RAG pipeline for pharmaceutical claim validation: 75%+ accuracy |
 | **[deepseek-agentic-rag](https://github.com/aravpatel19/deepseek-agentic-rag)** | Conversational Agentic RAG over DeepSeek API docs using GPT-4o-mini + crawl4ai |
 
 ---
